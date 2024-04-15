@@ -1,0 +1,5 @@
+spring:
+  application:
+  name: Starter
+server:
+  port: 8881
